@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I'm EHIBE
 
-<!--
-**EHIBE/EHIBE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a junior web developer from the Philippines, currently working on Laravel-based projects and exploring modern web development practices.
 
-Here are some ideas to get you started:
+### What I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** HTML, CSS, PHP, JavaScript
+* **Backend:** Laravel, Laravel Filament
+* **Frontend:** Laravel Livewire, Vue.js
+
+### Contact
+
+You can reach me at: dxmaquilang@gmail.com
