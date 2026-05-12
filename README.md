@@ -73,7 +73,6 @@ I design resilient systems using **Domain-Driven Design (DDD)** principles. My f
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EHIBE&show_icons=true&theme=nord&hide_border=true&title_color=4E56A6" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EHIBE&theme=nord&hide_border=true&ring=4E56A6&fire=4E56A6" alt="GitHub Streak" width="48%" />
 </p>
 
